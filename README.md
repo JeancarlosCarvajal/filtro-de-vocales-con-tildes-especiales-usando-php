@@ -33,4 +33,3 @@ Filtro de Vocales con Tildes especiales usando PHP
         // Retornamos la cadena limpia
         return $cadena;
     }
-?>
