@@ -1,7 +1,8 @@
 # filtro-de-vocales-con-tildes-especiales-usando-php
 Filtro de Vocales con Tildes especiales usando PHP
 
-<?php
+
+
     // Elimina todo tipo de tilde de las vocales 
     // para crear una url limpia y mejorar el SEO
     function eliminar_tildes($cadena){
