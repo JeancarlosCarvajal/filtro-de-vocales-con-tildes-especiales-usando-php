@@ -1,4 +1,4 @@
-<php
+<?php
 
 // Elimina todo tipo de tilde de las vocales 
 // para crear una url limpia y mejorar el SEO
